@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://conciergerieserris.fr/sitemap.xml
