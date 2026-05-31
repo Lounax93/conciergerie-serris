@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://conciergerieserris.fr/blog</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -35,5 +35,65 @@
     <lastmod>2026-05-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-marne-la-vallee-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-chessy-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-val-europe-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-serris-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-magny-le-hongre-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-bailly-romainvilliers-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-montevrain-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-bussy-saint-georges-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-coupvray-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://conciergerieserris.fr/blog/airbnb-lagny-sur-marne-guide-proprietaire</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
