@@ -302,6 +302,27 @@
       color: var(--grey-600);
     }
 
+    /* Timeline mobile */
+    @media (max-width: 640px) {
+      .timeline::before { left: 12px; transform: none; }
+      .timeline-item {
+        grid-template-columns: 28px 1fr;
+        gap: 14px;
+        margin-bottom: 28px;
+      }
+      .timeline-empty { display: none !important; }
+      .timeline-dot {
+        grid-column: 1 !important;
+        grid-row: 1 !important;
+        align-self: start;
+        margin-top: 4px;
+      }
+      .timeline-content {
+        grid-column: 2 !important;
+        grid-row: 1 !important;
+      }
+    }
+
     /* Zone Section */
     .zone-section {
       background: var(--noir);
@@ -364,8 +385,7 @@
         <div class="page-hero-content">
           <span class="badge">Notre histoire</span>
           <h1 id="page-title">
-            Des passionnés d'immobilier<br>
-            <span>au service des propriétaires du 77</span>
+            Des passionnés d'immobilier <span>au service des propriétaires du 77</span>
           </h1>
           <p>
             15 ans d'expertise, 20+ logements en gestion, une connaissance intime du marché Serris–Disneyland Paris. Nous ne gérons pas des biens — nous gérons votre patrimoine.

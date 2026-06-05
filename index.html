@@ -157,8 +157,17 @@
       font-size: 2.5rem;
     }
 
+    .zone-inner-grid { display:grid; grid-template-columns:1fr 1fr; gap:80px; align-items:center; }
+
+    @media (max-width: 900px) {
+      .zone-inner-grid { grid-template-columns:1fr; gap:40px; }
+      .trust-inner { gap: 16px 20px; }
+      .btn-cta-main { width:100%; justify-content:center; font-size:15px; padding:15px 24px; }
+    }
+
     @media (max-width: 768px) {
-      .hero-bottom { gap: 32px; }
+      .hero-bottom { gap: 24px; flex-wrap: wrap; }
+      .hero-stat .stat-number { font-size: 2rem; }
     }
 
     /* CTA Section */
@@ -393,8 +402,7 @@
           </div>
 
           <h1 id="hero-title" class="reveal reveal-delay-1">
-            Vous êtes propriétaire à Serris et souhaitez<br>
-            <span>faire du Airbnb&nbsp;?</span>
+            Vous êtes propriétaire à Serris et souhaitez <span>faire du Airbnb&nbsp;?</span>
           </h1>
 
           <p class="hero-sub reveal reveal-delay-2">
@@ -533,7 +541,7 @@
     <!-- ─── ZONE D'INTERVENTION ─────────────── -->
     <section class="section" style="background: var(--noir);" aria-labelledby="zone-title">
       <div class="container">
-        <div style="display:grid; grid-template-columns:1fr 1fr; gap:80px; align-items:center;">
+        <div class="zone-inner-grid">
           <div class="reveal">
             <span class="badge">Zone d'intervention</span>
             <div class="divider"></div>
@@ -588,11 +596,6 @@
         </div>
       </div>
 
-      <style>
-        @media (max-width: 900px) {
-          #zone-title + * + p + ul + * { display: block !important; }
-        }
-      </style>
     </section>
 
     <!-- ─── BLOG SECTION ────────────────────── -->

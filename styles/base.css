@@ -527,6 +527,16 @@ p { max-width: 65ch; }
   to { opacity: 1; transform: translateY(0); }
 }
 
+@media (max-width: 520px) {
+  .whatsapp-float {
+    padding: 14px;
+    border-radius: 50%;
+    right: 16px;
+    bottom: 16px;
+  }
+  .whatsapp-float .wa-label { display: none; }
+}
+
 /* ─── Stat Numbers ───────────────────────────── */
 .stat-number {
   font-family: var(--font-display);
@@ -560,4 +570,9 @@ p { max-width: 65ch; }
 @media (max-width: 768px) {
   .section { padding: 56px 0; }
   .section-header { margin-bottom: 40px; }
+}
+
+@media (max-width: 380px) {
+  .container { padding: 0 14px; }
+  .btn { padding: 12px 20px; font-size: 14px; }
 }

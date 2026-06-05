@@ -36,7 +36,7 @@
   </header>
 
   <style>
-    .blog-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); gap:28px; margin-top:48px; }
+    .blog-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(min(320px,100%),1fr)); gap:28px; margin-top:48px; }
     .article-card { border:1px solid var(--grey-200); border-radius:var(--radius-lg); overflow:hidden; transition:var(--transition); background:var(--blanc); text-decoration:none; color:inherit; display:flex; flex-direction:column; }
     .article-card:hover { border-color:var(--teal); box-shadow:var(--shadow-teal); transform:translateY(-4px); }
     .card-thumb { height:180px; background:linear-gradient(135deg,var(--noir) 0%,#1a2e2c 100%); display:flex; align-items:center; justify-content:center; position:relative; overflow:hidden; }
