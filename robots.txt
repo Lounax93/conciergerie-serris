@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://conciergerie-serris.hostopia.fr/sitemap.xml
+Sitemap: https://conciergerieserris.fr/sitemap.xml
