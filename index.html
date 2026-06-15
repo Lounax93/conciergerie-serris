@@ -376,6 +376,11 @@
           <a href="qui-sommes-nous.html">Qui sommes-nous</a>
           <a href="/blog">Blog</a>
         </nav>
+        <button class="hamburger" id="hamburger" aria-label="Menu" aria-expanded="false">
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+        </button>
         <a href="https://calendly.com/hostopia-conciergerie/appel-decouverte" class="btn btn-primary header-cta" target="_blank" rel="noopener">
           Prendre RDV
         </a>
@@ -716,6 +721,42 @@
       { threshold: 0.12, rootMargin: '0px 0px -40px 0px' }
     );
     document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+  </script>
+
+  <!-- Mobile menu overlay -->
+  <div class="mobile-menu-overlay" id="mobile-menu" aria-hidden="true">
+    <nav class="mobile-menu-nav" aria-label="Navigation mobile">
+      <a href="/" class="mobile-link">Accueil</a>
+      <a href="qui-sommes-nous.html" class="mobile-link">Qui sommes-nous</a>
+      <a href="/blog" class="mobile-link">Blog</a>
+      <a href="https://calendly.com/hostopia-conciergerie/appel-decouverte" class="mobile-link mobile-cta" target="_blank" rel="noopener">Prendre RDV</a>
+    </nav>
+  </div>
+
+  <script>
+    /* ─── Mobile hamburger ─────────────── */
+    (function() {
+      var hamburger = document.getElementById('hamburger');
+      var menu = document.getElementById('mobile-menu');
+      if (!hamburger || !menu) return;
+      hamburger.addEventListener('click', function() {
+        var open = menu.classList.toggle('open');
+        hamburger.classList.toggle('active');
+        hamburger.setAttribute('aria-expanded', open);
+        menu.setAttribute('aria-hidden', !open);
+        document.body.style.overflow = open ? 'hidden' : '';
+      });
+      /* Close on link click */
+      menu.querySelectorAll('.mobile-link').forEach(function(link) {
+        link.addEventListener('click', function() {
+          menu.classList.remove('open');
+          hamburger.classList.remove('active');
+          hamburger.setAttribute('aria-expanded', 'false');
+          menu.setAttribute('aria-hidden', 'true');
+          document.body.style.overflow = '';
+        });
+      });
+    })();
   </script>
 
 </body>
