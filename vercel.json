@@ -2,7 +2,7 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "redirects": [
-    { "source": "/:slug((?!blog|assets|styles|qui-sommes-nous|robots\\.txt|sitemap\\.xml|favicon\\.ico|vercel\\.json).+)", "destination": "/blog/:slug", "permanent": true }
+    { "source": "/:slug((?!blog|assets|styles|qui-sommes-nous|robots\\.txt|sitemap\\.xml|favicon\\.ico|llms\\.txt|vercel\\.json).+)", "destination": "/blog/:slug", "permanent": true }
   ],
   "headers": [
     {
