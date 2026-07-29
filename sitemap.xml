@@ -16,7 +16,13 @@
         <loc>https://conciergerieserris.fr/blog/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-        <lastmod>2026-07-27</lastmod>
+        <lastmod>2026-07-29</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/climatisation-chauffage-airbnb-serris-confort-thermique</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-07-29</lastmod>
     </url>
     <url>
         <loc>https://conciergerieserris.fr/blog/fideliser-voyageurs-airbnb-serris-reservations-recurrentes</loc>
