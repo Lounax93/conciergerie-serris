@@ -16,7 +16,13 @@
         <loc>https://conciergerieserris.fr/blog/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-        <lastmod>2026-07-29</lastmod>
+        <lastmod>2026-07-31</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/urgences-imprevus-airbnb-serris-gestion-crise</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-07-31</lastmod>
     </url>
     <url>
         <loc>https://conciergerieserris.fr/blog/evg-evjf-disneyland-paris-airbnb-serris</loc>
