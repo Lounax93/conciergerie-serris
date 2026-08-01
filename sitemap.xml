@@ -16,7 +16,13 @@
         <loc>https://conciergerieserris.fr/blog/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-        <lastmod>2026-07-31</lastmod>
+        <lastmod>2026-08-01</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/financement-achat-investissement-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-01</lastmod>
     </url>
     <url>
         <loc>https://conciergerieserris.fr/blog/terrasse-balcon-amenagement-airbnb-serris</loc>
