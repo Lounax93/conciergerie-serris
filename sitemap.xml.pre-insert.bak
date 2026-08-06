@@ -16,7 +16,73 @@
         <loc>https://conciergerieserris.fr/blog/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-        <lastmod>2026-07-29</lastmod>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/securite-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/check-in-autonome-accueil-voyageurs-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/equipements-bebe-jeunes-enfants-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-04</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/objets-oublies-voyageurs-airbnb-serris</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-04</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/animaux-compagnie-pet-friendly-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-03</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/optimisation-referencement-annonce-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-02</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/automatisation-gestion-temps-airbnb-serris-outils-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-02</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/financement-achat-investissement-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-01</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/aides-subventions-renovation-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-01</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/terrasse-balcon-amenagement-airbnb-serris</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-07-31</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/urgences-imprevus-airbnb-serris-gestion-crise</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-07-31</lastmod>
     </url>
     <url>
         <loc>https://conciergerieserris.fr/blog/evg-evjf-disneyland-paris-airbnb-serris</loc>
@@ -310,7 +376,13 @@
         <loc>https://conciergerieserris.fr/blog/declaloc-numero-enregistrement-national-multi-proprietaire</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
-        <lastmod>2026-07-27</lastmod>
+        <lastmod>2026-08-03</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/services-additionnels-prestations-premium-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-03</lastmod>
     </url>
     <url>
         <loc>https://conciergerieserris.fr/blog/declaration-mairie-meuble-tourisme-serris</loc>
@@ -743,6 +815,18 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
         <lastmod>2026-07-27</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/hors-saison-disneyland-attirer-voyageurs-airbnb-serris-toute-annee</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-07-30</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/debuter-airbnb-serris-guide-premier-bien-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-07-30</lastmod>
     </url>
 </urlset>
 
