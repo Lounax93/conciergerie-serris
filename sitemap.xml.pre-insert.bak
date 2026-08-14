@@ -16,7 +16,55 @@
         <loc>https://conciergerieserris.fr/blog/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-        <lastmod>2026-08-05</lastmod>
+        <lastmod>2026-08-12</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/canape-lit-couchages-appoint-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-12</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/avis-clients-airbnb-serris-evaluations-5-etoiles-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-11</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/nouveautes-airbnb-plateforme-2026-2027-serris</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-11</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/energie-consommation-electrique-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-10</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/jacuzzi-spa-privatif-airbnb-serris-disneyland-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-10</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/parking-stationnement-airbnb-serris-disneyland-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-10</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/cuisine-equipee-electromenager-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-08</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/decoration-home-staging-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-07</lastmod>
     </url>
     <url>
         <loc>https://conciergerieserris.fr/blog/securite-airbnb-serris-2026</loc>
@@ -112,7 +160,7 @@
         <loc>https://conciergerieserris.fr/blog/bruit-nuisances-sonores-voisinage-airbnb-serris</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
-        <lastmod>2026-07-27</lastmod>
+        <lastmod>2026-08-10</lastmod>
     </url>
     <url>
         <loc>https://conciergerieserris.fr/blog/accessibilite-pmr-handicap-airbnb-serris</loc>
@@ -827,6 +875,54 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
         <lastmod>2026-07-30</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/revenu-metre-carre-airbnb-serris-optimisation</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-06</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/photos-professionnelles-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-06</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/deleguer-gestion-airbnb-conciergerie-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-07</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/arnaques-faux-profils-protection-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-08</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/protection-biens-personnels-objets-valeur-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/linge-lit-literie-premium-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-12</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/consigne-bagages-bagagerie-airbnb-serris-disneyland</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-13</lastmod>
+    </url>
+    <url>
+        <loc>https://conciergerieserris.fr/blog/chambre-privee-vs-logement-entier-airbnb-serris-2026</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <lastmod>2026-08-13</lastmod>
     </url>
 </urlset>
 
